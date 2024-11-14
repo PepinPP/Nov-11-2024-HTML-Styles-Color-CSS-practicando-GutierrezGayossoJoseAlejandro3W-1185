@@ -31,19 +31,51 @@
 -------------------------------------------------
 5-Color de fondo
 
+![image](https://github.com/user-attachments/assets/a2561f13-912c-432a-b18b-7e55aea51c04)
 
+![image](https://github.com/user-attachments/assets/2be8eee2-7bb1-4aa2-be5e-85ef65a845af)
 
+------------------------------------------------
+6-Color de texto
 
+![image](https://github.com/user-attachments/assets/08933840-dd99-4dae-b087-76dc8a4fd1b4)
 
+![image](https://github.com/user-attachments/assets/7f730a6f-1476-4a5b-bfb1-1eca0c5d1f9a)
 
+-----------------------------------------
+7-Color de borde
 
+![image](https://github.com/user-attachments/assets/d8802141-107c-4562-921e-4dbb48a56f4a)
 
+![image](https://github.com/user-attachments/assets/efb4cb3d-e20b-48a9-b13b-557b8b89dae6)
 
+----------------------------------------
+8-Valores de color
 
+![image](https://github.com/user-attachments/assets/33a2d7f1-ba26-40d2-821e-b6e3b4d1b23b)
 
+![image](https://github.com/user-attachments/assets/8af07520-1774-4c82-a690-6edbbe334d2a)
 
+--------------------------------------
+9-CSS en linea
 
+![image](https://github.com/user-attachments/assets/b0deaca9-cf87-4fcc-8d0a-3df468adc03a)
 
+![image](https://github.com/user-attachments/assets/f04ba04b-5729-4777-bea0-3489b761fac2)
+
+----------------------------------------
+10-CSS interino
+
+![image](https://github.com/user-attachments/assets/1a33ac33-51a4-43c1-8901-d5f5ad5f70f5)
+
+![image](https://github.com/user-attachments/assets/0f58aad8-5c32-42b8-8a8b-fe5efe6033ca)
+
+--------------------------------------
+11-CSS externo 
+
+![image](https://github.com/user-attachments/assets/56185b11-5879-47f3-8554-869666a93ec2)
+
+![image](https://github.com/user-attachments/assets/9ba4b042-5bef-4513-87a1-c7b0dcfe902a)
 
 
 
